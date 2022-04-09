@@ -1,6 +1,6 @@
 # Express POC Rest API
 
-This is a proof of concept (POC) of a REST API developed with Express Js, in which we explore the general concepts of a REST API, and based on that, we cover the following topics.
+This is a proof of concept (POC) of a REST API developed with Express Js, in which we explore the general concepts of a REST API, and cover the following topics.
 
 - REST API structure
 
@@ -29,7 +29,7 @@ This is a proof of concept (POC) of a REST API developed with Express Js, in whi
 - Clone repository
 
   ```sh
-  git clone https://github.com/jc-canedo/express-poc-rest-api.git
+  git clone https://github.com/carlos-canedo/express-poc-rest-api.git
   ```
 
 - Install packages
